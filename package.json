@@ -11,7 +11,7 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://hoyeong0426.github.io/firestreak-dev-folio/",
+  "homepage": "https://github.com/HoYeong0426/resume.git",
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
     "@radix-ui/react-accordion": "^1.2.11",
