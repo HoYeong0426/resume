@@ -124,10 +124,7 @@ const ContactSection = () => {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm">
-              © 2024 Backend Developer. All rights reserved.
-            </p>
-            <p className="text-gray-400 text-sm">
-              Built with React, TypeScript, and Tailwind CSS
+              © 2025 HOYEONG Backend Developer. All rights reserved.
             </p>
           </div>
         </div>

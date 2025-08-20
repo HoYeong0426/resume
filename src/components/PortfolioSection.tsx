@@ -109,7 +109,6 @@ const PortfolioSection = () => {
       title: "프론트엔드 성능 최적화 및 사용자 경험 개선",
       descriptionGiven: [
         "대용량 데이터 처리 시 그리드 렌더링 성능 저하",
-        "파일 업로드/다운로드 시 사용자 대기 시간 증가",
         "복잡한 폼 검증으로 인한 사용자 불편함",
       ],
       descriptionWhen: [
@@ -193,7 +192,7 @@ const PortfolioSection = () => {
                      </div>
                    </div>
 
-                                     {/* Blog Links */}
+                  {/* Blog Links */}
                    {project.blogLinks && project.blogLinks.length > 0 && (
                      <div>
                        <div className="flex items-center gap-2 mb-3">
